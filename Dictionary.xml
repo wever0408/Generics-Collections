@@ -1,0 +1,93 @@
+<?xml version = "1.0"?>
+<dictionaries>
+    <dictionary language = "en-vi">
+        <set>
+            <word>dawn</word>
+            <meaning>binh minh</meaning>
+        </set>
+         <set>
+            <word>twilight</word>
+            <meaning>hoang hon</meaning>
+        </set>
+         <set>
+            <word>sky</word>
+            <meaning>troi, bau troi</meaning>
+        </set>
+         <set>
+            <word>star</word>
+            <meaning>ngoi sao, vi sao</meaning>
+        </set>
+         <set>
+            <word>cloud</word>
+            <meaning>may, dam may</meaning>
+        </set>
+         <set>
+            <word>sun</word>
+            <meaning>Mat Troi</meaning>
+        </set>
+         <set>
+            <word>moon</word>
+            <meaning>Mat Trang</meaning>
+        </set>
+         <set>
+            <word>university</word>
+            <meaning>dai hoc</meaning>
+        </set>
+         <set>
+            <word>science</word>
+            <meaning>khoa hoc</meaning>
+        </set>
+         <set>
+            <word>information</word>
+            <meaning>thong tin</meaning>
+        </set>
+         <set>
+            <word>technology</word>
+            <meaning>cong nghe</meaning>
+        </set>
+         <set>
+        </set>
+    </dictionary>
+    <dictionary language = "vi-en">
+         <set>
+            <word>ban hanh</word>
+            <meaning>to issue, pass (laws, etc.), publish</meaning>
+        </set>
+         <set>
+            <word>ban mai</word>
+            <meaning>early morning</meaning>
+        </set>
+           <set>
+            <word>ban chieu</word>
+            <meaning>afternoon, in the afternoon</meaning>
+        </set>
+         <set>
+            <word>nhat thuc</word>
+            <meaning>solar eclipse</meaning>
+        </set>
+         <set>
+            <word>nguyet thuc</word>
+            <meaning>lunar eclipse</meaning>
+        </set>
+         <set>
+            <word>truong dai hoc</word>
+            <meaning>university</meaning>
+        </set>
+         <set>
+            <word>cua</word>
+            <meaning>of</meaning>
+        </set>
+         <set>
+            <word>khoa hoc</word>
+            <meaning>science</meaning>
+        </set>
+         <set>
+            <word>thong tin</word>
+            <meaning>information</meaning>
+        </set>
+         <set>
+            <word>cong nghe</word>
+            <meaning>technology</meaning>
+        </set>
+    </dictionary>
+</dictionaries>
